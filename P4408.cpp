@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-const int maxn =  2000000000;
+const int maxn =  200000000;
 typedef long long ll;
 struct Edge
 {
