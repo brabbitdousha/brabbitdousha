@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a junior student</h1>
+<h1 align="center">Hi 👋, I'm a senior student,computer graphics research intern.</h1>
 
 - 📝here is my page [https://brabbitdousha.github.io/](https://brabbitdousha.github.io/)
 
