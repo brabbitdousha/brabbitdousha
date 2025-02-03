@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm an undergraduate student,
-  
-  computer graphics research intern.
+<h1 align="center">Hi 👋.
 
 </h1>
 
